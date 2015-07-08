@@ -1,10 +1,8 @@
 #Captone Project
 ###The Client
-ASU Career Center
-####The Problem
-Retention?
-####Proposed Solution
-4-Year Plan Web App
+  *ASU Career Center*
+####Problem/Solution
+Retention? / 4-Year Plan Web App
 
 ###Team
 |Name      |email      |role      |
@@ -16,6 +14,10 @@ Retention?
 |Diefei Yan|diefei.yan@asu.edu| |
 
 ###Proposal
-####planned functionality
+  place Prototype/Mock-up imgs here
+  explanation of design/architecture
 ####technology stack
-####test protocol
+  language / dev&style frameworks / database / hosting / version control / testing
+####planned functionality
+  Product Backlog ![insert link to backlog here]()
+####test/review protocol
