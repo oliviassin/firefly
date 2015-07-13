@@ -7,7 +7,7 @@ Retention? / 4-Year Plan Web App
 ###Team
 |Name      |email      |role      |
 |----------|-----------|----------|
-|David Joplin|djoplin@asu.edu| |
+|David Joplin|djoplin@asu.edu|Scrum Master |
 |Ahmad Kadado|ahmad.kadado@asu.edu| |
 |Olivia Sin|olivia.sin@asu.edu| |
 |Kevin Wesley|kevin.wesley@asu.edu| |
